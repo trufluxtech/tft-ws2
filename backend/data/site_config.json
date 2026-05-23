@@ -1,0 +1,244 @@
+{
+  "version": "1.1.11",
+  "brand": {
+    "companyName": "Truflux Technologies",
+    "legalName": "Truflux Technologies Private Limited",
+    "tagline": "Enterprise AI, digital engineering and transformation consulting",
+    "logoText": "Truflux",
+    "website": "https://www.trufluxtech.com",
+    "email": "contact@trufluxtech.com",
+    "phone": "+91 99864 22552",
+    "address": "413-1, Second Floor Crescent Road, Bengaluru, Karnataka, India 560001",
+    "logoUrl": "/assets/truflux-logo.svg",
+    "logoMarkUrl": "/assets/truflux-logo-mark.svg"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "#home"
+    },
+    {
+      "label": "Vision & Mission",
+      "href": "#vision-mission"
+    },
+    {
+      "label": "Values",
+      "href": "#values"
+    },
+    {
+      "label": "Services Offered",
+      "href": "#services"
+    },
+    {
+      "label": "Whitepapers",
+      "href": "#whitepapers"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Truflux Technologies",
+    "title": "Enterprise technology transformation with AI, data and digital engineering.",
+    "subtitle": "A modern corporate website platform for presenting Truflux\u2019s vision, mission, values, services, whitepapers and client engagement channels.",
+    "primaryCta": "View Services Offered",
+    "secondaryCta": "Read Whitepapers",
+    "stats": [
+      {
+        "value": "AI",
+        "label": "Strategy & adoption"
+      },
+      {
+        "value": "Cloud",
+        "label": "Modernization"
+      },
+      {
+        "value": "GCC",
+        "label": "Advisory & execution"
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "AI Transformation",
+      "summary": "Design practical AI adoption roadmaps, model routing strategies, governance and measurable enterprise use cases.",
+      "points": [
+        "AI operating model",
+        "Model routing and cost control",
+        "Responsible AI governance"
+      ]
+    },
+    {
+      "title": "Digital Engineering",
+      "summary": "Build scalable, secure and maintainable web, mobile and platform solutions using modern engineering practices.",
+      "points": [
+        "Full-stack delivery",
+        "API-first architecture",
+        "Cloud-native applications"
+      ]
+    },
+    {
+      "title": "Data Modernization",
+      "summary": "Create trusted, accessible and governed data ecosystems that support analytics, automation and AI initiatives.",
+      "points": [
+        "Data governance",
+        "Data democratization",
+        "BI and analytics"
+      ]
+    },
+    {
+      "title": "GCC Advisory",
+      "summary": "Help global enterprises set up and scale advanced technology centers that move beyond traditional back-office delivery.",
+      "points": [
+        "Operating model",
+        "Leadership structure",
+        "Capability maturity"
+      ]
+    },
+    {
+      "title": "Cybersecurity & Identity",
+      "summary": "Strengthen digital trust with modern identity, biometric authentication, security controls and resilient architecture.",
+      "points": [
+        "Biometric verification",
+        "MFA strategy",
+        "Risk reduction"
+      ]
+    },
+    {
+      "title": "Sovereign Infrastructure",
+      "summary": "Advise enterprises on sovereign AI infrastructure, data residency, cost optimization and resilient cloud strategies.",
+      "points": [
+        "Sovereign cloud",
+        "Lower TCO",
+        "Compliance alignment"
+      ]
+    }
+  ],
+  "solutions": [
+    {
+      "title": "Whitepaper & Thought Leadership Portal",
+      "description": "Lead-gated whitepaper publishing with configurable content, reader capture and secure access workflows."
+    },
+    {
+      "title": "Biometric Verification Platforms",
+      "description": "Face ID and QR-based verification workflows for public services, examinations, ticketing and field operations."
+    },
+    {
+      "title": "Enterprise Web Platforms",
+      "description": "Configurable websites and business portals that can be maintained without constant developer dependency."
+    }
+  ],
+  "whitepapers": [
+    {
+      "id": "model-routing-ai-cost",
+      "title": "Model Routing: The Foundation of Economically Viable AI",
+      "description": "A CIO briefing on reducing AI cost while improving performance through architectural discipline.",
+      "featured": true,
+      "downloadUrl": "/whitepapers/model-routing.pdf"
+    },
+    {
+      "id": "data-democratization",
+      "title": "Data Democratization: Executive Summary",
+      "description": "A leadership briefing on trusted, accessible and governed enterprise data.",
+      "featured": false,
+      "downloadUrl": "/whitepapers/data-democratization.pdf"
+    },
+    {
+      "id": "sovereign-ai-infra",
+      "title": "Sovereign AI Infrastructure",
+      "description": "A strategic note on data sovereignty, AI infrastructure and cost control.",
+      "featured": false,
+      "downloadUrl": "/whitepapers/sovereign-ai.pdf"
+    }
+  ],
+  "contact": {
+    "heading": "Let us discuss your transformation agenda.",
+    "subheading": "Share your requirement and the Truflux team will get back with a practical next step."
+  },
+  "footer": {
+    "copyright": "\u00a9 2026 Truflux Technologies Private Limited. All rights reserved.",
+    "note": "Built as a configurable enterprise website platform."
+  },
+  "theme": {
+    "name": "Dark Blue Enterprise",
+    "primary": "#071f44",
+    "secondary": "#0b3a75",
+    "accent": "#38bdf8",
+    "surface": "#0f2f5f",
+    "text": "#f8fafc"
+  },
+  "visionMission": {
+    "vision": {
+      "title": "Vision",
+      "text": "To help enterprises become intelligent, resilient and future-ready by combining strategic consulting, responsible AI, modern engineering and trusted data platforms."
+    },
+    "mission": {
+      "title": "Mission",
+      "text": "To deliver practical technology transformation that reduces complexity, improves execution velocity, strengthens digital trust and creates measurable business outcomes for clients."
+    }
+  },
+  "values": [
+    {
+      "title": "Client Value First",
+      "description": "Every engagement must create visible business value, not just technical output."
+    },
+    {
+      "title": "Execution Discipline",
+      "description": "We believe strong architecture, clear ownership and disciplined delivery separate leaders from laggards."
+    },
+    {
+      "title": "Trust & Responsibility",
+      "description": "Security, governance, data protection and responsible AI are treated as core design principles."
+    },
+    {
+      "title": "Innovation with Practicality",
+      "description": "We experiment with emerging technology, but convert it into usable enterprise-grade solutions."
+    },
+    {
+      "title": "Transparency",
+      "description": "We communicate clearly, document decisions and keep stakeholders aligned through delivery."
+    },
+    {
+      "title": "Scalable Thinking",
+      "description": "Solutions are designed to grow with the enterprise and remain easy to operate."
+    }
+  ],
+  "servicesIntro": {
+    "eyebrow": "Services Offered",
+    "title": "Services offered for enterprise transformation",
+    "description": "A focused portfolio of consulting, engineering and platform capabilities designed for CIOs, CTOs and business leaders."
+  },
+  "whitepaperIntro": {
+    "eyebrow": "Whitepaper Section",
+    "title": "Whitepapers and executive briefings",
+    "description": "A dedicated section for Truflux thought leadership with lead capture before access."
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "label": "Hero"
+    },
+    "visionMission": {
+      "enabled": true,
+      "label": "Vision & Mission"
+    },
+    "values": {
+      "enabled": true,
+      "label": "Values"
+    },
+    "services": {
+      "enabled": true,
+      "label": "Services Offered"
+    },
+    "whitepapers": {
+      "enabled": true,
+      "label": "Whitepaper Section"
+    },
+    "contact": {
+      "enabled": true,
+      "label": "Contact"
+    }
+  },
+  "runtimeVersion": "1.1.10"
+}

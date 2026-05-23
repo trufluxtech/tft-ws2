@@ -1,0 +1,10 @@
+.env
+backend/.env
+backend/venv/
+backend/*.db
+backend/truflux.db
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.DS_Store
