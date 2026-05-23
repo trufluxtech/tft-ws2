@@ -1,10 +1,12 @@
 FROM node:20 AS frontend-build
 
 WORKDIR /app/frontend
+
 COPY frontend/package*.json ./
-RUN npm install
+RUN npm install --include=dev
+
 COPY frontend/ ./
-RUN npm run build
+RUN npx vite build
 
 
 FROM python:3.11-slim
